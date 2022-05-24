@@ -1,0 +1,25 @@
+{
+  "name": "deconstructing-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijaygenius123/deconstructing-react.git"
+  },
+  "keywords": [],
+  "author": "Vijayaraghavan Sundararaman <vijaygenius123@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vijaygenius123/deconstructing-react/issues"
+  },
+  "homepage": "https://github.com/vijaygenius123/deconstructing-react#readme",
+  "dependencies": {
+    "parcel": "2.5.0",
+    "typescript": "4.6.4"
+  }
+}
